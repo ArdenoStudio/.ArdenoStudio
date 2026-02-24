@@ -32,7 +32,7 @@ No compromise.
 
 ## Tech Stack
 
-React · TypeScript · Tailwind CSS · Framer Motion · Vite · Vercel · Netify
+React · TypeScript · Tailwind CSS · Framer Motion · Vite · Vercel · Netlify
 
 ---
 
